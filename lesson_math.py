@@ -1,3 +1,8 @@
+from ast import Num
+
+
+A = 10
+B =5
 print(
-    (10 - 5) * 5
+    (A - B) * 5
 )
