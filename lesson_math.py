@@ -1,8 +1,4 @@
-from ast import Num
+import math
 
-
-A = 10
-B =5
-print(
-    (A - B) * 5 + 5
-)
+result = math.sqrt(25)
+print(result)
